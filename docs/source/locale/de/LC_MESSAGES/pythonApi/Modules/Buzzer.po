@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, SunFounder
+# This file is distributed under the same license as the SunFounder Robot
+# HAT package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SunFounder Robot HAT \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-23 17:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../pythonApi/Modules/Buzzer.rst:3
+msgid ""
+"Hello, welcome to the SunFounder Raspberry Pi & Arduino & ESP32 "
+"Enthusiasts Community on Facebook! Dive deeper into Raspberry Pi, "
+"Arduino, and ESP32 with fellow enthusiasts."
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:5
+msgid "**Why Join?**"
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:7
+msgid ""
+"**Expert Support**: Solve post-sale issues and technical challenges with "
+"help from our community and team."
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:8
+msgid "**Learn & Share**: Exchange tips and tutorials to enhance your skills."
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:9
+msgid ""
+"**Exclusive Previews**: Get early access to new product announcements and"
+" sneak peeks."
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:10
+msgid "**Special Discounts**: Enjoy exclusive discounts on our newest products."
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:11
+msgid ""
+"**Festive Promotions and Giveaways**: Take part in giveaways and holiday "
+"promotions."
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:13
+msgid ""
+"👉 Ready to explore and create with us? Click [|link_sf_facebook|] and "
+"join today!"
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:16
+msgid "class ``Buzzer`` - passive buzzer"
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:18
+msgid "**Usage**"
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:32
+msgid "**Constructors**"
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:35
+msgid ""
+"``class robot_hat.Buzzer(pwm)``: Create a Buzzer object associated with "
+"the given pwm object. This will allow you to control the buzzer."
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:37
+msgid "**Methods**"
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:40
+msgid "``on`` - Turn the buzzer on with a square wave."
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:46
+msgid "``off`` - Turn the buzzer off."
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:52
+msgid "``freq`` - Set the frequency of the square wave."
+msgstr ""
+
+#: ../pythonApi/Modules/Buzzer.rst:58
+msgid ""
+"``play`` - Make the buzzer sound at a specific frequency and stop at a ms"
+" delay time."
+msgstr ""
+

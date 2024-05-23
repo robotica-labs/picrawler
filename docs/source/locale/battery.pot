@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, SunFounder
+# This file is distributed under the same license as the SunFounder Robot HAT package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SunFounder Robot HAT \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-23 17:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../battery.rst:3
+msgid "Hello, welcome to the SunFounder Raspberry Pi & Arduino & ESP32 Enthusiasts Community on Facebook! Dive deeper into Raspberry Pi, Arduino, and ESP32 with fellow enthusiasts."
+msgstr ""
+
+#: ../battery.rst:5
+msgid "**Why Join?**"
+msgstr ""
+
+#: ../battery.rst:7
+msgid "**Expert Support**: Solve post-sale issues and technical challenges with help from our community and team."
+msgstr ""
+
+#: ../battery.rst:8
+msgid "**Learn & Share**: Exchange tips and tutorials to enhance your skills."
+msgstr ""
+
+#: ../battery.rst:9
+msgid "**Exclusive Previews**: Get early access to new product announcements and sneak peeks."
+msgstr ""
+
+#: ../battery.rst:10
+msgid "**Special Discounts**: Enjoy exclusive discounts on our newest products."
+msgstr ""
+
+#: ../battery.rst:11
+msgid "**Festive Promotions and Giveaways**: Take part in giveaways and holiday promotions."
+msgstr ""
+
+#: ../battery.rst:13
+msgid "👉 Ready to explore and create with us? Click [|link_sf_facebook|] and join today!"
+msgstr ""
+
+#: ../battery.rst:16
+msgid "About the Battery"
+msgstr ""
+
+#: ../battery.rst:17
+msgid "**Battery**"
+msgstr ""
+
+#: ../battery.rst:23
+msgid "**VCC**: Battery positive terminal, here there are two sets of VCC and GND is to increase the current and reduce the resistance."
+msgstr ""
+
+#: ../battery.rst:24
+msgid "**Middle**: To balance the voltage between the two cells and thus protect the battery."
+msgstr ""
+
+#: ../battery.rst:25
+msgid "**GND**: Negative battery terminal."
+msgstr ""
+
+#: ../battery.rst:28
+msgid "This is a custom battery pack made by SunFounder consisting of two 18650 batteries with a capacity of 2200mAh. The connector is PH2.0-3P, which can be charged directly after being inserted into the shield."
+msgstr ""
+
+#: ../battery.rst:32
+msgid "**Features**"
+msgstr ""
+
+#: ../battery.rst:34
+msgid "Battery charge: 5V/2A"
+msgstr ""
+
+#: ../battery.rst:35
+msgid "Battery output: 5V/5A"
+msgstr ""
+
+#: ../battery.rst:36
+msgid "Battery capacity: 3.7V 2000mAh x 2"
+msgstr ""
+
+#: ../battery.rst:37
+msgid "Battery life: 90min"
+msgstr ""
+
+#: ../battery.rst:38
+msgid "Battery charge time: 130min"
+msgstr ""
+
+#: ../battery.rst:39
+msgid "Connector: PH2.0, 3P"
+msgstr ""

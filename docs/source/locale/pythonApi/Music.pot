@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, SunFounder
+# This file is distributed under the same license as the SunFounder Robot HAT package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SunFounder Robot HAT \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-23 17:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../pythonApi/Music.rst:3
+msgid "Hello, welcome to the SunFounder Raspberry Pi & Arduino & ESP32 Enthusiasts Community on Facebook! Dive deeper into Raspberry Pi, Arduino, and ESP32 with fellow enthusiasts."
+msgstr ""
+
+#: ../pythonApi/Music.rst:5
+msgid "**Why Join?**"
+msgstr ""
+
+#: ../pythonApi/Music.rst:7
+msgid "**Expert Support**: Solve post-sale issues and technical challenges with help from our community and team."
+msgstr ""
+
+#: ../pythonApi/Music.rst:8
+msgid "**Learn & Share**: Exchange tips and tutorials to enhance your skills."
+msgstr ""
+
+#: ../pythonApi/Music.rst:9
+msgid "**Exclusive Previews**: Get early access to new product announcements and sneak peeks."
+msgstr ""
+
+#: ../pythonApi/Music.rst:10
+msgid "**Special Discounts**: Enjoy exclusive discounts on our newest products."
+msgstr ""
+
+#: ../pythonApi/Music.rst:11
+msgid "**Festive Promotions and Giveaways**: Take part in giveaways and holiday promotions."
+msgstr ""
+
+#: ../pythonApi/Music.rst:13
+msgid "👉 Ready to explore and create with us? Click [|link_sf_facebook|] and join today!"
+msgstr ""
+
+#: ../pythonApi/Music.rst:16
+msgid "class ``Music`` - notes and beats"
+msgstr ""
+
+#: ../pythonApi/Music.rst:18
+msgid "**Usage**"
+msgstr ""
+
+#: ../pythonApi/Music.rst:43
+msgid "**Constructors**"
+msgstr ""
+
+#: ../pythonApi/Music.rst:45
+msgid "``class robot_hat.Music()``: Create a Music object. This allows you to then get or control music!"
+msgstr ""
+
+#: ../pythonApi/Music.rst:47
+msgid "**Methods**"
+msgstr ""
+
+#: ../pythonApi/Music.rst:49
+msgid "``note`` - Gets the frequency of the note. The input string must be the constant ``NOTE``."
+msgstr ""
+
+#: ../pythonApi/Music.rst:56
+msgid "``beat`` - Get milisecond from beats. Input value can be float, like ``0.5`` as half beat, or ``0.25`` as quarter beat."
+msgstr ""
+
+#: ../pythonApi/Music.rst:63
+msgid "``tempo`` - Get/set the tempo, input value is in bmp(beat per second)."
+msgstr ""
+
+#: ../pythonApi/Music.rst:70
+msgid "``play_tone_for`` - Play tone. Input is note and beat, like ``Music.note(\"Middle D\"), Music.beat(0.5)``."
+msgstr ""
+
+#: ../pythonApi/Music.rst:76
+msgid "``sound_play`` - Play music files."
+msgstr ""
+
+#: ../pythonApi/Music.rst:82
+msgid "``background_music`` - Background music playback (file name, number of loops, starting position of music file, volume)."
+msgstr ""
+
+#: ../pythonApi/Music.rst:88
+msgid "``music_set_volume`` - Set volume"
+msgstr ""
+
+#: ../pythonApi/Music.rst:94
+msgid "``music_stop`` - stop"
+msgstr ""
+
+#: ../pythonApi/Music.rst:100
+msgid "``music_pause`` - pause"
+msgstr ""
+
+#: ../pythonApi/Music.rst:106
+msgid "``music_unpause`` - unpause"
+msgstr ""
+
+#: ../pythonApi/Music.rst:112
+msgid "``sound_length`` - Return the duration of the music file."
+msgstr ""

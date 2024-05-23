@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, SunFounder
+# This file is distributed under the same license as the SunFounder Robot
+# HAT package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SunFounder Robot HAT \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-23 17:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../pythonApi/I2C.rst:3
+msgid ""
+"Hello, welcome to the SunFounder Raspberry Pi & Arduino & ESP32 "
+"Enthusiasts Community on Facebook! Dive deeper into Raspberry Pi, "
+"Arduino, and ESP32 with fellow enthusiasts."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:5
+msgid "**Why Join?**"
+msgstr ""
+
+#: ../pythonApi/I2C.rst:7
+msgid ""
+"**Expert Support**: Solve post-sale issues and technical challenges with "
+"help from our community and team."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:8
+msgid "**Learn & Share**: Exchange tips and tutorials to enhance your skills."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:9
+msgid ""
+"**Exclusive Previews**: Get early access to new product announcements and"
+" sneak peeks."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:10
+msgid "**Special Discounts**: Enjoy exclusive discounts on our newest products."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:11
+msgid ""
+"**Festive Promotions and Giveaways**: Take part in giveaways and holiday "
+"promotions."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:13
+msgid ""
+"👉 Ready to explore and create with us? Click [|link_sf_facebook|] and "
+"join today!"
+msgstr ""
+
+#: ../pythonApi/I2C.rst:18
+msgid "class ``i2c`` - IIC Bus"
+msgstr ""
+
+#: ../pythonApi/I2C.rst:20
+msgid "**Usage**"
+msgstr ""
+
+#: ../pythonApi/I2C.rst:38
+msgid "**Constructors**"
+msgstr ""
+
+#: ../pythonApi/I2C.rst:40
+msgid ""
+"``class robot_hat.I2C(num)``: Create an I2C object associated with the "
+"given ``num``. This allows you to use i2c on that device."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:42
+msgid "**Methods**"
+msgstr ""
+
+#: ../pythonApi/I2C.rst:44
+msgid "``is_ready`` - Check if slave 0x42 is ready."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:50
+msgid "``scan`` - Scan for slaves on the bus, returning."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:56
+msgid "``send`` - Send several bytes to slave with address."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:62
+msgid "``recv`` - Receive one or several bytes."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:68
+msgid "``mem_write`` - Write to the memory of an I2C device."
+msgstr ""
+
+#: ../pythonApi/I2C.rst:74
+msgid "``mem_read`` - Read from the memory of an I2C device."
+msgstr ""
+
